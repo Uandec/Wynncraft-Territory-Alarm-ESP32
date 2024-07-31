@@ -31,7 +31,7 @@ This is an ESP32 project using the Arduino framework, that makes Wynncraft API c
 \+ Normaly Open Button between Pin 32 and GND
 
 ### Features
-- Flexible display support, if it is supported by the GFX library, it will most likely run here:tm:
+- Flexible display support, if it is supported by the GFX library, it will most likely run here™️
 - Display the territory that was lost in the screen and which guild took it
 - Sound alert when a territory is lost
 - Button to wake display or keep it alive for longer
